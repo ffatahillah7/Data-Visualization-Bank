@@ -6,6 +6,12 @@ Sample of Data Visualization
    
    Link: https://public.tableau.com/app/profile/fajar.fatahillah/viz/SuperstoreDashboard_17369159591390/ExecutiveDashboard
    ![image](https://github.com/user-attachments/assets/433cf830-8973-4532-a801-70ec36f718d0)
+   
+2. Hr Attrition Dashboard
+
+   Link: https://public.tableau.com/app/profile/fajar.fatahillah/viz/HRAnalyticsDashboard_17231981849450/HRANALYTICSDASHBOARD
+   ![image](https://github.com/user-attachments/assets/a473d91d-e850-43fe-8211-0e90e2e69c3e)
+
 
 ## Looker Studio
 1. Grocery Sales Dashboard
